@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>Hi, I'm Gamal 
 
-<!--
-**AnceintGmog/AnceintGmog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Strengths:</h2>
 
-Here are some ideas to get you started:
+- <b>Communication</b>
+- <b>Problem solving</b>
+- <b>Adaptability</b>
+  
+<h2>✔Values</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Protecting People<b>
+- <b>Protecting organizations<b>
+- <b>Integrity
+<h2>why cybersecurity</h2>
+- <b> I am a cybersecurity enthusiast who thrives on staying ahead of dangers. In this ever-changing field, my capacity for problem-solving and continuous growth pushes me. I believe in being proactive and identifying weaknesses before they become problems.
+I'm detail-oriented and ethical, and I'm dedicated to strengthening systems and upholding data integrity. I excel in risk assessment and developing strong security solutions. I believe that cybersecurity should be incorporated into all aspects of an organization.
+I'm committed to enhancing your security goals by offering a safe space for creativity while keeping your data secure.
+
+ </b>
